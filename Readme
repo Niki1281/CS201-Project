@@ -1,1 +1,15 @@
+In this project we will build a Library Management System (LMS) for a college, school or university.
+The primary language we use for the implementation is C++. 
+We can manage to give the input as:
+Insert
+Search
+Update
+Delete
+Show all the records
+Exit
+Expected output:
+Book ID
+Name of the book
+Author Name
+Publisher Name
 
